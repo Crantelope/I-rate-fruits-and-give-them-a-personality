@@ -1,6 +1,6 @@
 # I-rate-fruits-and-give-them-a-personality
 
-WELCOME
+<h1> <strong>WELCOME</strong> </h1>
 Hi to everybody in the vicinity. today I'm going to rate some fruits on a scale of one to ten and then give them a persoanlity. So i hope you enjoy that.
 
 Watermelon 10/10
